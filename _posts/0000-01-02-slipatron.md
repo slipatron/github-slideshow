@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+none pizza with left beef
 Use the left arrow to go back!
